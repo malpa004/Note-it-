@@ -1,0 +1,97 @@
+.listy{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	margin-right: 4px;
+}
+
+input[type="checkbox"]{
+	margin-right: 8px;
+}
+
+.AddListy{
+	margin-bottom: 25px;
+	background-color:aliceblue;
+}
+
+.deletebutton{
+	border: 0px;
+}
+
+.editbutton{
+	border: 0px;
+}
+
+.starbutton{
+	border: 0px;
+}
+
+.editicon:hover i{
+	color: darkseagreen
+}
+
+.deleteicon:hover i{
+	color: red
+}
+
+.staricon:hover i{
+	color: gold
+}
+
+.completeTask{
+	text-decoration: line-through;
+}
+
+.task-box{
+	/*padding: 2px 5px;*/
+}
+
+.editlistnamebutton{
+	border: 0px;
+}
+
+.AddList{
+	margin-top: 0px;
+}
+
+.ListName{
+	color: red
+}
+
+.listtitle{
+	margin-right: 20px;
+	color: cadetblue
+}
+
+.editiconn:hover i{
+	color: darkseagreen
+}
+
+.deleteiconn:hover i{
+	color: red
+}
+
+.di{
+	color: crimson;
+	margin-right: 70px;
+}
+
+.ei{
+	color: cadetblue;
+	margin-right: 150px;
+}
+
+.editicon{
+	color: cadetblue;
+}
+
+.deleteicon{
+	color: crimson
+}
+
+.staricon{
+	color: gold
+}
+
+.progress{
+	height: 10px;
+}

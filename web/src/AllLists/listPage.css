@@ -1,0 +1,59 @@
+
+.addNewButton{
+  margin-bottom: 20px;
+}
+
+.listPage{
+  /*border-style: ridge;
+  border-width: 1px;
+  margin-top: 20px;*/
+}
+
+/*.panel-heading{
+  text-align: center;
+}*/
+
+.fa-book:before{
+  margin-right: 10px;
+
+}
+
+.heading-block{
+  /*border: 1px;
+  border-color: #666;*/
+}
+
+.addButton{
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.all-list-top{
+  border: 0 !important;
+}
+
+.noshow{
+  display: none;
+}
+
+.asas:before{
+  margin-right: 10px;
+
+}
+
+.list-box{
+	padding: 15px 10px;
+}
+
+.list-box:hover{
+	background-color: aliceblue
+}
+
+.listlink{
+	color: darkcyan;
+	font-family: sans-serif
+}
+
+hr{
+	margin-bottom: 0px
+}
